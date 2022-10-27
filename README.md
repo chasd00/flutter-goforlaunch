@@ -1,7 +1,7 @@
 # Go For Launch
 
 <img align="left" src="screenshot.png" style="margin-right:20px"/>
-This is a simple checklist app built using Flutter aimed at High Power Rocketry hobbyists. With this app you can create the checklists used for launces and not have to carry around a clipboard and pen.
+This is a simple checklist app built using Flutter aimed at High Power Rocketry hobbyists. With this app you can create the checklists used for launches and not have to carry around a clipboard and pen.
 
 ## Getting Started
 
