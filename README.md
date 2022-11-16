@@ -13,3 +13,14 @@ Next, keep following the documentation all the way through creating your first a
 
 Last, clone this repo and get hacking.
 
+## Android Build
+
+Check that you have all the pre-reqs you need 
+
+`> flutter doctor`
+
+Build an apk in build/app/outputs/flutter-apk/app-release.apk
+
+`> flutter build apk`
+
+

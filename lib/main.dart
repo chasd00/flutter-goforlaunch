@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Launch Checklist',
         theme: ThemeData(primarySwatch: Colors.deepPurple),
         home: Home());

@@ -1,4 +1,4 @@
-package com.example.flutter_goforlaunch
+package net.jettdigital.apps.flutter_goforlaunch
 
 import io.flutter.embedding.android.FlutterActivity
 
